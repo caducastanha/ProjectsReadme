@@ -11,3 +11,6 @@ https://github.com/caducastanha/desafio01
 
 ## modulo02
 https://github.com/caducastanha/modulo02
+
+## desafio02
+https://github.com/caducastanha/desafio02
